@@ -95,12 +95,12 @@ grep {ClassName}
 ### searching  
 
 > normal searching  
-<image src="https://github.com/karistin/JavaProfiler/blob/develop/image/normal.png"
+<image src="./image/normal.png"
 height=300
 width=800>
 
 > tree searching  
-<image src="https://github.com/karistin/JavaProfiler/blob/develop/image/searching.png"
+<image src="./image/searching.png"
 height=300
 width=600>
 
